@@ -1,4 +1,4 @@
-# covid_kavach_india
+# Flutter-Covid-Kavach
 
 A new Flutter application.
 
